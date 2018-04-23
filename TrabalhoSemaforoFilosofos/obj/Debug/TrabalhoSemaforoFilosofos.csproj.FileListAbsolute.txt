@@ -1,0 +1,6 @@
+c:\users\joao.franca\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\bin\Debug\TrabalhoSemaforoFilosofos.exe
+c:\users\joao.franca\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\bin\Debug\TrabalhoSemaforoFilosofos.pdb
+c:\users\joao.franca\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\obj\Debug\TrabalhoSemaforoFilosofos.csprojResolveAssemblyReference.cache
+c:\users\joao.franca\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\obj\Debug\TrabalhoSemaforoFilosofos.csproj.CoreCompileInputs.cache
+c:\users\joao.franca\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\obj\Debug\TrabalhoSemaforoFilosofos.exe
+c:\users\joao.franca\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\obj\Debug\TrabalhoSemaforoFilosofos.pdb
