@@ -4,3 +4,9 @@ c:\users\joao.franca\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\obj\Deb
 c:\users\joao.franca\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\obj\Debug\TrabalhoSemaforoFilosofos.csproj.CoreCompileInputs.cache
 c:\users\joao.franca\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\obj\Debug\TrabalhoSemaforoFilosofos.exe
 c:\users\joao.franca\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\obj\Debug\TrabalhoSemaforoFilosofos.pdb
+C:\Users\vinimtex\Documents\PUCRS\SistemasOp\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\bin\Debug\TrabalhoSemaforoFilosofos.exe
+C:\Users\vinimtex\Documents\PUCRS\SistemasOp\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\bin\Debug\TrabalhoSemaforoFilosofos.pdb
+C:\Users\vinimtex\Documents\PUCRS\SistemasOp\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\obj\Debug\TrabalhoSemaforoFilosofos.csprojResolveAssemblyReference.cache
+C:\Users\vinimtex\Documents\PUCRS\SistemasOp\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\obj\Debug\TrabalhoSemaforoFilosofos.csproj.CoreCompileInputs.cache
+C:\Users\vinimtex\Documents\PUCRS\SistemasOp\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\obj\Debug\TrabalhoSemaforoFilosofos.exe
+C:\Users\vinimtex\Documents\PUCRS\SistemasOp\TrabalhoSemaforoFilosofos\TrabalhoSemaforoFilosofos\obj\Debug\TrabalhoSemaforoFilosofos.pdb

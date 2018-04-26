@@ -6,7 +6,7 @@ using System.Threading;
 
 namespace TrabalhoSemaforoFilosofos
 {
-    public class Filosofo
+    public class MainApp
     {
         static int QTD_FILOSOFOS = 5;
         delegate int LEFT(int posicaoAtual);
@@ -21,16 +21,17 @@ namespace TrabalhoSemaforoFilosofos
         static Semaphore[] SEMAFORO_FILOSOFO = new Semaphore[5];
 
 
-        public static void Main(string[] args)
+       /*public static void Main(string[] args)
         {
 
             while (true)
             {
                 Console.WriteLine("PENSANDO");
 
+
             }
 
-        }
+        }*/
 
         public void PegarrGarfos(int posicao)
         {
@@ -45,7 +46,7 @@ namespace TrabalhoSemaforoFilosofos
 
         public void TentarPegarDoisGarfos(int posicao)
         {
-            if(ESTADO[posicao] == "FAMINTO" && ESTADO[left(posicao)] != "COMENDO" && ESTADO[right(posicao)] != "EATING")
+            if(ESTADO[posicao] == "FAMINTO" && ESTADO[left(posicao)] != "COMENDO" && ESTADO[right(posicao)] != "COMENDO")
             {
                 ESTADO[posicao] = "COMENDO";
                 SEMAFORO_FILOSOFO[posicao].WaitOne();
